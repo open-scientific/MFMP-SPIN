@@ -30,5 +30,5 @@ https://www.trinitas.ru/rus/doc/0231/004a/02311041.htm
 - Confirm RPM to event counts
 - Confirm if Solid body has same effects vs Cone
 
-![experiment](https://github.com/user-attachments/assets/e0535b20-65f9-4021-89a2-eaffcf627821)
+![experiment](https://github.com/user-attachments/assets/d8afd172-7389-4474-adef-061d5fc69f47)
 
