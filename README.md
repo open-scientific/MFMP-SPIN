@@ -16,8 +16,7 @@ https://www.trinitas.ru/rus/doc/0231/004a/02311041.htm
 
 [“Investigation of the characteristics of MagnetoToroElectric Emanations with the help of photographic film detectors” (Russian Paper) –.pdf](https://github.com/user-attachments/files/19038579/Investigation.of.the.characteristics.of.MagnetoToroElectric.Emanations.with.the.help.of.photographic.film.detectors.Russian.Paper.pdf)
 
-
-### PDF Captures of the paper English and Russian
+### PDF Captures of the paper English and Russian
 
 [Academy of Trinitarianism - Institute of Physics of Vakuum - Experiment - Shishkin A L, Baranov V A, Vinogradova A V, Dubovik V M, Tatur V Yu - Study of the characteristics of MagnetoToroElectric Radiation using photographic film detectors.pdf](https://github.com/user-attachments/files/19038499/Academy.of.Trinitarianism.-.Institute.of.Physics.of.Vakuum.-.Experiment.-.Shishkin.A.L.Baranov.V.A.Vinogradova.A.V.Dubovik.V.M.Tatur.V.Yu.-.Study.of.the.characteristics.of.MagnetoToroElectric.Radiation.using.photographic.film.detectors.pdf)
 
